@@ -12,18 +12,19 @@ Learn how to build and deploy a modern Web3 portfolio website tailored for block
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/web3-blockchain-developer-portfolio-website-template)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/KDr3A_Zk4ac?si=0DEeq6hy01_OxPNE)
 
 ```
-  WATCH: Setup & Demo Of Project
-  URL:
+  TITLE: MUST WATCH
+  URL: https://www.theblockchaincoders.com/sourceCode/web3-blockchain-developer-portfolio-website-template
+  URL: https://youtu.be/KDr3A_Zk4ac?si=0DEeq6hy01_OxPNE
 ```
 
-####  Hostinger Deployment Online
+#### Hostinger Deployment Online
 
 ```
   WATCH: Hostinger
@@ -63,15 +64,25 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
+  URL: https://youtu.be/KDr3A_Zk4ac?si=0DEeq6hy01_OxPNE
+  CODE: https://www.theblockchaincoders.com/sourceCode/web3-blockchain-developer-portfolio-website-template
 ```
 
-#### Final Source Code
+#### FORMSPREE
 
 ```
-  GET: Download the Final Source Code
-  URL:
+  GET: FORMSPREE
+  WEBSITE: https://formspree.io/
+  VIDEO: https://youtu.be/jA5AiGMy_9g?si=Vfev4wASwo-Yvt9o
 ```
+
+#### CALENDLY
+
+```
+  GET: CALENDLY
+  WEBSITE: https://calendly.com/
+```
+
 
 #### Install Vs Code Editor
 
